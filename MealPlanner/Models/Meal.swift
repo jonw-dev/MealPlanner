@@ -21,6 +21,8 @@ struct Meal: Identifiable, Codable {
         self.image = image
         self.items = items
         print(name)
+        
+        print(name)
     }
 }
 
